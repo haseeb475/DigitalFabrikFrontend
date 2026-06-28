@@ -1,0 +1,575 @@
+{
+  "brand": {
+    "title": "Migrant Assistant",
+    "tagline": "Your journey. Our guidance."
+  },
+  "landing": {
+    "heroTitle": "Your guide through German bureaucracy",
+    "heroSubtitle": "Step-by-step help for residence permits, registration, and more — on your terms.",
+    "sectionLabel": "Choose how to continue",
+    "illustrationAlt": "Two people with a suitcase standing before a city skyline",
+    "loginPrompt": "Already have an account?",
+    "loginLink": "Log in",
+    "personalized": {
+      "title": "Personalized Mode",
+      "description": "Create an account to save progress and pick up where you left off.",
+      "bullet1": "Sign in across devices",
+      "bullet2": "Saved timeline and documents",
+      "bullet3": "Reminders for upcoming deadlines",
+      "bullet4": "Tailored suggestions over time",
+      "cta": "Continue with account",
+      "comingSoon": "Coming soon"
+    },
+    "guest": {
+      "title": "Continue as Guest",
+      "description": "Try the assistant instantly — no account needed.",
+      "bullet1": "Start immediately, no sign-up",
+      "bullet2": "All data stays on this device",
+      "bullet3": "Session clears when you close the browser",
+      "bullet4": "Perfect for a quick first look",
+      "cta": "Get started as guest"
+    },
+    "trust": {
+      "title": "Your data, your control",
+      "body": "Guest mode stores everything locally on your device. Nothing is sent to a server. When you're ready for a full experience, personalized mode will sync securely across devices.",
+      "point1": "No account required for guest mode",
+      "point2": "Data never leaves your browser"
+    },
+    "privacyNote": "We respect your privacy. Guest data never leaves your device.",
+    "goalsTitle": "What do you need help with?",
+    "freeTextLabel": "Or describe your situation in your own words",
+    "journey": {
+      "arrival": "Arrival",
+      "registration": "Registration",
+      "permit": "Permit",
+      "work": "Work"
+    }
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "settings": "Settings",
+    "guestBadge": "Guest Mode Active (Data Local)",
+    "collapse": "Collapse sidebar",
+    "expand": "Expand sidebar",
+    "openMenu": "Open menu"
+  },
+  "map": {
+    "hubTitle": "My Journey",
+    "selectPrompt": "Select a topic on the map to begin",
+    "nodes": {
+      "arrival": "Arrival & First Steps",
+      "residence-permit": "Residence Permit",
+      "legal-rights": "Legal & Rights",
+      "work-career": "Work & Career"
+    },
+    "status": {
+      "completed": "Completed",
+      "active": "In progress",
+      "locked": "Locked"
+    }
+  },
+  "intake": {
+    "back": "Back",
+    "next": "Next",
+    "finish": "View Results",
+    "stepOf": "Step {{current}} of {{total}}",
+    "documents": {
+      "passport": "Valid Passport",
+      "photos": "Biometric Photos",
+      "insurance": "Health Insurance",
+      "registration": "City Registration (Anmeldung)",
+      "bank": "Bank Account Confirmation"
+    },
+    "step3": {
+      "title": "Review Your Information",
+      "description": "Please review the details you've provided. You can go back to make changes if needed."
+    },
+    "step4": {
+      "title": "Ready to Continue",
+      "description": "We'll generate personalized action steps based on your answers."
+    },
+    "residence": {
+      "step1": {
+        "question": "What is your current visa status?",
+        "tourist": "Tourist",
+        "student": "Student",
+        "work": "Work Visa",
+        "asylum": "Asylum Seeker"
+      },
+      "step2": {
+        "question": "Select documents you currently have:"
+      },
+      "step3": {
+        "description": "Based on your visa status and documents, we'll prepare your next steps for the residence permit process."
+      },
+      "step4": {
+        "description": "Your personalized checklist and action items are ready. Click below to see what to do next."
+      }
+    },
+    "arrival": {
+      "step1": {
+        "question": "When did you arrive in Germany?",
+        "recent": "Within the last 30 days",
+        "planning": "Planning to arrive soon",
+        "relocating": "Already living here (relocating)"
+      },
+      "step2": {
+        "question": "Select documents you currently have:"
+      }
+    },
+    "summary": {
+      "visaStatus": "Visa / Arrival Status",
+      "documents": "Documents on hand",
+      "none": "None selected"
+    }
+  },
+  "actions": {
+    "title": "Your Next Steps",
+    "subtitle": "Based on your answers, here are recommended actions",
+    "bookAppointment": "Book Appointment",
+    "viewForms": "View Official Forms",
+    "findOffice": "Find Local Office",
+    "callHotline": "Call Hotline",
+    "checklistTitle": "Required Documents",
+    "checklistHas": "You have this document",
+    "checklistMissing": "Still needed",
+    "counselorTitle": "Need personal guidance?",
+    "counselorDescription": "Connect with a local counselor who speaks your language.",
+    "counselorCta": "Connect with a Counselor"
+  },
+  "common": {
+    "loading": "Loading...",
+    "language": "Language"
+  },
+  "nav": {
+    "timeline": "Timeline",
+    "map": "Map",
+    "help": "Help",
+    "documents": "Documents",
+    "profile": "Profile"
+  },
+  "help": {
+    "choose": {
+      "title": "How would you like to get help?",
+      "subtitle": "We'll tailor documents and next steps to your Ausländer situation.",
+      "tip": "Not sure? Try asking a question"
+    },
+    "guided": {
+      "title": "Guided Interview",
+      "description": "A few questions about your visa and documents — step by step.",
+      "cta": "Start Guided Interview",
+      "flowTitle": "Guided Interview",
+      "finish": "See my documents"
+    },
+    "browse": {
+      "title": "Ask Anything",
+      "description": "Describe what you need — get structured action cards, not long chat replies.",
+      "cta": "Open Action Workspace"
+    },
+    "backToChoose": "Back to help options",
+    "stepOf": "Step {{current}} of {{total}}",
+    "results": {
+      "title": "Your Document Checklist",
+      "subtitle": "Based on your Ausländer answers — what you have and what you still need.",
+      "stillNeeded": "Still needed for your appointment",
+      "alreadyHave": "You already have",
+      "hint": "Bring missing documents to your Ausländerbehörde appointment. Requirements may vary by city.",
+      "cta": "Explore my journey map"
+    },
+    "topics": {
+      "title": "Popular Topics",
+      "subtitle": "Common bureaucratic tasks — pick one to explore."
+    }
+  },
+  "assistant": {
+    "header": {
+      "title": "Action Workspace",
+      "subtitle": "Ask once, explore structured next steps as cards."
+    },
+    "session": {
+      "label": "Your topic"
+    },
+    "refine": {
+      "progress": "{{current}} / {{total}} answered",
+      "optional": "optional"
+    },
+    "empty": {
+      "title": "What do you want to explore?",
+      "subtitle": "Ask about residence permits, Anmeldung, work visas, and more. You'll get actionable cards — not a wall of text.",
+      "placeholder": "e.g. How do I get a residence permit?",
+      "suggestions": "Try asking"
+    },
+    "intro": {
+      "ready": "Here are the key actions for you:",
+      "needsInfo": "I found a starting point — a few details will help me refine these cards:"
+    },
+    "cardsLabel": "Your action cards",
+    "cardsHint": "Tap a card to expand — full details stay right here.",
+    "context": {
+      "label": "Your answers so far",
+      "followUps": "Follow-ups"
+    },
+    "wallet": {
+      "title": "My wallet",
+      "empty": "Nothing saved yet",
+      "emptyHint": "Add cards or save the full session to keep answers and guides on this device.",
+      "addCard": "Add to wallet",
+      "inWallet": "Saved in wallet",
+      "saveAll": "Save all to wallet",
+      "downloadSession": "Download session",
+      "download": "Download",
+      "remove": "Remove",
+      "show": "My wallet",
+      "hide": "Hide wallet",
+      "exportAll": "Export all (JSON)",
+      "typeCard": "Single card",
+      "typeSession": "Full session · {{count}} cards"
+    },
+    "cardStatus": {
+      "recommended": "Start here",
+      "needsInfo": "Needs details"
+    },
+    "followUp": {
+      "label": "Explore further",
+      "placeholder": "Refine or ask about something else…",
+      "send": "Send",
+      "go": "Go",
+      "cardContext": "Follow up on this card",
+      "cardPlaceholder": "Ask about this card…",
+      "aboutPrefix": "About",
+      "clear": "Clear"
+    },
+    "guided": {
+      "badge": "Quick questions",
+      "stepOf": "Question {{current}} of {{total}}",
+      "finish": "Show my cards",
+      "title": "Personalize your cards",
+      "description": "Tap the options that match your situation — your action cards will update.",
+      "submit": "Update my cards",
+      "selectPlaceholder": "Select an option",
+      "country": "Which city are you applying in?",
+      "currentStatus": "What is your current status?",
+      "purpose": "What are you applying for?",
+      "purposeChecklist": "I want a checklist",
+      "appointment": "Do you already have an appointment?",
+      "cities": {
+        "berlin": "Berlin",
+        "munich": "Munich",
+        "hamburg": "Hamburg",
+        "other": "Other city"
+      }
+    },
+    "panel": {
+      "detailLabel": "Details",
+      "close": "Close"
+    },
+    "suggestions": {
+      "residence": "How do I get a residence permit?",
+      "anmeldung": "How do I register my address?",
+      "renewal": "How do I renew my visa?",
+      "work": "Can I work while my permit is processing?"
+    },
+    "cards": {
+      "eligibility": {
+        "title": "Check eligibility",
+        "description": "See if you meet the basic requirements for a residence permit."
+      },
+      "documents": {
+        "title": "Required documents",
+        "description": "Passport, photos, insurance, and proof documents you'll need."
+      },
+      "process": {
+        "title": "Application process",
+        "description": "Step-by-step from appointment to receiving your permit."
+      },
+      "appointment": {
+        "title": "Book appointment",
+        "description": "How to schedule at your local Ausländerbehörde."
+      },
+      "fees": {
+        "title": "Fees & costs",
+        "description": "Typical fees and what affects the total cost."
+      },
+      "sources": {
+        "title": "Official sources",
+        "description": "Verified links from BAMF, city portals, and Make it in Germany."
+      },
+      "mistakes": {
+        "title": "Common mistakes",
+        "description": "Avoid delays and rejections with these tips."
+      },
+      "timeline": {
+        "title": "Timeline",
+        "description": "How long each stage typically takes."
+      },
+      "anmeldungWhat": {
+        "title": "What is Anmeldung?",
+        "description": "Why city registration matters and when you must do it."
+      },
+      "anmeldungDocs": {
+        "title": "Documents for Anmeldung",
+        "description": "Passport, rental contract, and landlord confirmation."
+      },
+      "anmeldungAppointment": {
+        "title": "Book Bürgeramt appointment",
+        "description": "Find your local Bürgeramt and schedule a slot."
+      },
+      "anmeldungDeadline": {
+        "title": "14-day deadline",
+        "description": "Register within two weeks of moving in."
+      },
+      "workPermit": {
+        "title": "Work permit basics",
+        "description": "When you need employer sponsorship vs. open access."
+      },
+      "workDocs": {
+        "title": "Employment documents",
+        "description": "Contract, qualifications, and employer letters."
+      },
+      "workProcess": {
+        "title": "Work permit process",
+        "description": "Employer, Ausländerbehörde, and start date coordination."
+      },
+      "explore": {
+        "title": "Explore topics",
+        "description": "Browse common bureaucratic tasks and next steps."
+      },
+      "generalDocs": {
+        "title": "Document checklist",
+        "description": "Standard documents for most Ausländer appointments."
+      }
+    },
+    "detail": {
+      "sources": "Sources",
+      "lastUpdated": "Last updated: today",
+      "seeExamples": "See examples",
+      "bookAppointment": "Find appointment portal",
+      "fallback": {
+        "heading": "Details",
+        "body": "Select a card to load detailed guidance."
+      },
+      "eligibility": {
+        "heading": "Eligibility checklist",
+        "body": "Requirements vary by visa type and city, but these are the most common criteria.",
+        "item1": "Valid passport for entire permit period",
+        "item2": "Proof of health insurance coverage",
+        "item3": "Sufficient financial means or employment",
+        "item4": "Registered address (Anmeldung) in most cases"
+      },
+      "documents": {
+        "heading": "Required documents",
+        "body": "Bring originals plus copies. Missing items can delay your appointment."
+      },
+      "process": {
+        "heading": "Application steps",
+        "step1": "Book an appointment at your Ausländerbehörde",
+        "step2": "Gather all required documents",
+        "step3": "Attend appointment and submit application",
+        "step4": "Receive Fiktionsbescheinigung if processing takes time",
+        "step5": "Collect your Aufenthaltstitel when ready"
+      },
+      "appointment": {
+        "heading": "Booking your appointment",
+        "body": "Appointments are city-specific. Book early — slots fill quickly.",
+        "tip1": "Check your city's online appointment system first",
+        "tip2": "Have your passport number ready when booking"
+      },
+      "fees": {
+        "heading": "Typical fees",
+        "body": "Fees depend on permit type and duration. Payment is usually at the appointment.",
+        "item1": "Standard residence permit: approx. €100",
+        "item2": "Extensions and special cases may cost more"
+      },
+      "mistakes": {
+        "heading": "Avoid these common mistakes",
+        "body": "These are the most frequent reasons for delays or second appointments.",
+        "item1": "Missing Anmeldung before your Ausländer appointment",
+        "item2": "Expired passport or insufficient validity",
+        "item3": "No proof of health insurance",
+        "item4": "Incomplete employment or enrollment documents"
+      },
+      "timeline": {
+        "heading": "Typical timeline",
+        "body": "Timelines vary by city workload and your case complexity.",
+        "step1": "Week 1–2: Book appointment & gather documents",
+        "step2": "Week 3–4: Attend appointment",
+        "step3": "Week 4–12: Processing (Fiktionsbescheinigung issued if needed)",
+        "step4": "Final: Collect permit card"
+      },
+      "anmeldungWhat": {
+        "heading": "City registration (Anmeldung)",
+        "body": "You must register your address at the Bürgeramt within 14 days of moving in. You'll receive a Meldebescheinigung — needed for bank accounts, permits, and more."
+      },
+      "anmeldungDeadline": {
+        "heading": "The 14-day rule",
+        "body": "Registration is legally required within two weeks of moving into your new address.",
+        "tip": "Late registration can result in fines in some cities."
+      }
+    }
+  },
+  "navigator": {
+    "entry": {
+      "title": "What do you want to navigate?",
+      "subtitle": "Pick a goal below or describe your situation in your own words — both get you started.",
+      "tileError": "This goal isn't available right now. Please try another or describe your situation below.",
+      "freeTextError": "Please enter between 1 and 1000 characters describing your situation."
+    },
+    "cardsHint": "Each step is a card. Tap to expand — your full guide stays right here.",
+    "resultsHint": "Start with the summary, then work through the steps in order.",
+    "earlierResults": "Earlier results ({{count}})"
+  },
+  "guide": {
+    "name": "Nav",
+    "avatarAlt": "Nav, your guide",
+    "greeting": "Hi, I'm Nav, your guide. Tell me where you're stuck and I'll map out your next steps.",
+    "summaryIntro": "Here's how I'd tackle it"
+  },
+  "myInfo": {
+    "open": "Your information",
+    "title": "Your information",
+    "subtitle": "Everything saved on this device. Nothing leaves your browser.",
+    "close": "Close",
+    "profile": "Your profile",
+    "topics": "Your topics",
+    "wallet": "Saved guides",
+    "preferences": "Preferences",
+    "emptyProfile": "You haven't answered the guided questions yet.",
+    "emptyTopics": "No topics explored yet.",
+    "emptyWallet": "No saved guides yet.",
+    "remove": "Remove",
+    "clearSection": "Clear",
+    "clearAll": "Clear everything",
+    "language": "Language",
+    "noAnswers": "No details captured yet"
+  },
+  "goals": {
+    "firstResidence": {
+      "label": "Get my first residence permit",
+      "description": "Apply for your first Aufenthaltstitel from the start."
+    },
+    "registerAddress": {
+      "label": "Register my address",
+      "description": "Complete your Anmeldung at the Bürgeramt."
+    },
+    "renewPermit": {
+      "label": "Renew my permit",
+      "description": "Extend your residence permit before it expires."
+    },
+    "work": {
+      "label": "Work in Germany",
+      "description": "Find out if and how you can work with your status."
+    },
+    "changeStatus": {
+      "label": "Change my status",
+      "description": "Switch your residence purpose, e.g. from study to work."
+    },
+    "somethingElse": {
+      "label": "Something else",
+      "description": "Describe your situation and we'll point you the right way."
+    }
+  },
+  "summary": {
+    "title": "Your situation",
+    "goalLabel": "Your goal",
+    "verdictPrefix": "Do this next",
+    "empty": "No situation information yet. Pick a goal or describe your situation to get started.",
+    "urgency": {
+      "urgent": "Urgent",
+      "soon": "Act soon",
+      "none": "No deadline"
+    }
+  },
+  "office": {
+    "title": "Where to go",
+    "bookingTitle": "Book your appointment",
+    "bookingPortalLabel": "Booking portal",
+    "bookingStepsLabel": "How to reach the booking page",
+    "whatToBring": "What to bring",
+    "fallback": "We couldn't determine the responsible office for your situation. The booking and document steps below still apply.",
+    "types": {
+      "residence": "Ausländerbehörde",
+      "anmeldung": "Bürgeramt"
+    }
+  },
+  "classification": {
+    "actionable": "Action needed",
+    "advisable": "Good to know"
+  },
+  "completion": {
+    "markComplete": "Mark as done",
+    "completed": "Done",
+    "progress": "{{done}}/{{total}} steps done"
+  },
+  "export": {
+    "pdfButton": "Download as PDF",
+    "sectionSummary": "Your situation",
+    "sectionCards": "Your action steps",
+    "sectionSteps": "Steps",
+    "sectionSources": "Official sources",
+    "error": "We couldn't create the PDF. Please try again."
+  },
+  "auslander": {
+    "step1": {
+      "question": "Where are you in your journey?",
+      "abroad": "Still in my home country",
+      "justArrived": "I just arrived in Germany",
+      "fewMonths": "I've been here a few months",
+      "settled": "I've been here over a year"
+    },
+    "step2": {
+      "question": "What is your current visa or residence status?",
+      "tourist": "Tourist visa",
+      "student": "Student visa",
+      "work": "Work visa / Blue Card",
+      "asylum": "Asylum seeker",
+      "other": "Other / not sure"
+    },
+    "step3": {
+      "question": "What do you need help with at the Ausländerbehörde?",
+      "firstPermit": "Apply for my first residence permit",
+      "renewal": "Renew my existing permit",
+      "extension": "Extend my current status",
+      "changeStatus": "Change status (e.g. student → work)",
+      "registration": "Registration only (Anmeldung)"
+    },
+    "step4": {
+      "question": "Which documents do you already have?",
+      "subtitle": "Select all that apply — we'll highlight what's still missing."
+    },
+    "step5": {
+      "question": "Do you have an Ausländerbehörde appointment?",
+      "none": "Not yet — I need to book one",
+      "scheduled": "Yes, appointment is scheduled",
+      "waiting": "Waiting for appointment date",
+      "completed": "Already visited recently"
+    },
+    "step6": {
+      "title": "Ready to build your checklist",
+      "description": "We'll match your answers against typical Ausländeramt requirements and show what to bring."
+    },
+    "documents": {
+      "passport": "Valid passport",
+      "photos": "Biometric photos",
+      "insurance": "Health insurance proof",
+      "anmeldung": "Anmeldung (city registration)",
+      "currentPermit": "Current Aufenthaltstitel",
+      "employmentContract": "Employment contract",
+      "rentalContract": "Rental contract / Wohnungsgeberbestätigung",
+      "fiktion": "Fiktionsbescheinigung"
+    },
+    "summary": {
+      "visaStatus": "Residence status",
+      "goal": "Your goal",
+      "documents": "Documents on hand"
+    },
+    "topics": {
+      "anmeldung": "Register your address (Anmeldung)",
+      "aufenthalt": "First residence permit",
+      "renewal": "Renew visa / permit",
+      "insurance": "Health insurance",
+      "work": "Work & employment",
+      "rights": "Legal rights & protections"
+    }
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "brand": {
+    "title": "Migrant Assistant",
+    "tagline": "Ihre Reise. Unsere Begleitung."
+  },
+  "landing": {
+    "heroTitle": "Ihr Weg durch deutsche Behörden",
+    "heroSubtitle": "Schritt-für-Schritt-Hilfe bei Aufenthaltserlaubnis, Anmeldung und mehr — ganz nach Ihren Bedürfnissen.",
+    "sectionLabel": "Wählen Sie, wie Sie fortfahren möchten",
+    "illustrationAlt": "Zwei Personen mit Koffer vor einer Stadtsilhouette",
+    "loginPrompt": "Bereits ein Konto?",
+    "loginLink": "Anmelden",
+    "personalized": {
+      "title": "Personalisierter Modus",
+      "description": "Erstellen Sie ein Konto, um Fortschritte zu speichern und später fortzufahren.",
+      "bullet1": "Geräteübergreifend anmelden",
+      "bullet2": "Gespeicherter Zeitplan und Dokumente",
+      "bullet3": "Erinnerungen an anstehende Fristen",
+      "bullet4": "Individuelle Vorschläge über die Zeit",
+      "cta": "Mit Konto fortfahren",
+      "comingSoon": "Demnächst verfügbar"
+    },
+    "guest": {
+      "title": "Als Gast fortfahren",
+      "description": "Assistenten sofort testen — ohne Konto.",
+      "bullet1": "Sofort starten, keine Anmeldung",
+      "bullet2": "Alle Daten bleiben auf diesem Gerät",
+      "bullet3": "Sitzung endet beim Schließen des Browsers",
+      "bullet4": "Ideal für einen ersten Überblick",
+      "cta": "Als Gast starten"
+    },
+    "trust": {
+      "title": "Ihre Daten, Ihre Kontrolle",
+      "body": "Im Gastmodus wird alles lokal auf Ihrem Gerät gespeichert. Nichts wird an einen Server gesendet. Wenn Sie bereit sind, synchronisiert der personalisierte Modus Ihre Daten sicher über Geräte hinweg.",
+      "point1": "Kein Konto für den Gastmodus nötig",
+      "point2": "Daten verlassen nie Ihren Browser"
+    },
+    "privacyNote": "Wir respektieren Ihre Privatsphäre. Gastdaten verlassen niemals Ihr Gerät.",
+    "goalsTitle": "Wobei brauchen Sie Hilfe?",
+    "freeTextLabel": "Oder beschreiben Sie Ihre Situation in eigenen Worten",
+    "journey": {
+      "arrival": "Ankunft",
+      "registration": "Anmeldung",
+      "permit": "Aufenthalt",
+      "work": "Arbeit"
+    }
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "documents": "Dokumente",
+    "settings": "Einstellungen",
+    "guestBadge": "Gastmodus aktiv (Daten lokal)",
+    "collapse": "Seitenleiste einklappen",
+    "expand": "Seitenleiste ausklappen",
+    "openMenu": "Menü öffnen"
+  },
+  "map": {
+    "hubTitle": "Meine Reise",
+    "selectPrompt": "Wählen Sie ein Thema auf der Karte, um zu beginnen",
+    "nodes": {
+      "arrival": "Ankunft & Erste Schritte",
+      "residence-permit": "Aufenthaltserlaubnis",
+      "legal-rights": "Recht & Rechte",
+      "work-career": "Arbeit & Karriere"
+    },
+    "status": {
+      "completed": "Abgeschlossen",
+      "active": "In Bearbeitung",
+      "locked": "Gesperrt"
+    }
+  },
+  "intake": {
+    "back": "Zurück",
+    "next": "Weiter",
+    "finish": "Ergebnisse anzeigen",
+    "stepOf": "Schritt {{current}} von {{total}}",
+    "documents": {
+      "passport": "Gültiger Reisepass",
+      "photos": "Biometrische Fotos",
+      "insurance": "Krankenversicherung",
+      "registration": "Anmeldung (Meldebescheinigung)",
+      "bank": "Bankkontobestätigung"
+    },
+    "step3": {
+      "title": "Informationen überprüfen",
+      "description": "Bitte überprüfen Sie Ihre Angaben. Sie können zurückgehen, um Änderungen vorzunehmen."
+    },
+    "step4": {
+      "title": "Bereit fortzufahren",
+      "description": "Wir erstellen personalisierte Handlungsschritte basierend auf Ihren Antworten."
+    },
+    "residence": {
+      "step1": {
+        "question": "Wie lautet Ihr aktueller Visumstatus?",
+        "tourist": "Tourist",
+        "student": "Student",
+        "work": "Arbeitsvisum",
+        "asylum": "Asylsuchender"
+      },
+      "step2": {
+        "question": "Wählen Sie Dokumente, die Sie bereits haben:"
+      },
+      "step3": {
+        "description": "Basierend auf Ihrem Visumstatus und Ihren Dokumenten bereiten wir die nächsten Schritte für die Aufenthaltserlaubnis vor."
+      },
+      "step4": {
+        "description": "Ihre personalisierte Checkliste und Handlungsempfehlungen sind bereit. Klicken Sie unten, um fortzufahren."
+      }
+    },
+    "arrival": {
+      "step1": {
+        "question": "Wann sind Sie in Deutschland angekommen?",
+        "recent": "In den letzten 30 Tagen",
+        "planning": "Ankunft in Kürze geplant",
+        "relocating": "Bereits hier (Umzug)"
+      },
+      "step2": {
+        "question": "Wählen Sie Dokumente, die Sie bereits haben:"
+      }
+    },
+    "summary": {
+      "visaStatus": "Visum- / Ankunftsstatus",
+      "documents": "Vorhandene Dokumente",
+      "none": "Keine ausgewählt"
+    }
+  },
+  "actions": {
+    "title": "Ihre nächsten Schritte",
+    "subtitle": "Basierend auf Ihren Antworten empfehlen wir folgende Aktionen",
+    "bookAppointment": "Termin buchen",
+    "viewForms": "Offizielle Formulare",
+    "findOffice": "Behörde finden",
+    "callHotline": "Hotline anrufen",
+    "checklistTitle": "Erforderliche Dokumente",
+    "checklistHas": "Dokument vorhanden",
+    "checklistMissing": "Noch erforderlich",
+    "counselorTitle": "Persönliche Beratung benötigt?",
+    "counselorDescription": "Verbinden Sie sich mit einer lokalen Beraterin, die Ihre Sprache spricht.",
+    "counselorCta": "Mit Beraterin verbinden"
+  },
+  "common": {
+    "loading": "Laden...",
+    "language": "Sprache"
+  },
+  "nav": {
+    "timeline": "Zeitplan",
+    "map": "Karte",
+    "help": "Hilfe",
+    "documents": "Dokumente",
+    "profile": "Profil"
+  },
+  "help": {
+    "choose": {
+      "title": "Wie möchten Sie Hilfe erhalten?",
+      "subtitle": "Wir passen Dokumente und nächste Schritte an Ihre Ausländer-Situation an.",
+      "tip": "Unsicher? Stellen Sie einfach eine Frage"
+    },
+    "guided": {
+      "title": "Geführtes Interview",
+      "description": "Ein paar Fragen zu Visum und Dokumenten — Schritt für Schritt.",
+      "cta": "Geführtes Interview starten",
+      "flowTitle": "Geführtes Interview",
+      "finish": "Meine Dokumente anzeigen"
+    },
+    "browse": {
+      "title": "Fragen stellen",
+      "description": "Beschreiben Sie, was Sie brauchen — strukturierte Aktionskarten statt langer Chat-Antworten.",
+      "cta": "Action Workspace öffnen"
+    },
+    "backToChoose": "Zurück zu den Hilfeoptionen",
+    "stepOf": "Schritt {{current}} von {{total}}",
+    "results": {
+      "title": "Ihre Dokumenten-Checkliste",
+      "subtitle": "Basierend auf Ihren Ausländer-Antworten — was Sie haben und was noch fehlt.",
+      "stillNeeded": "Für Ihren Termin noch erforderlich",
+      "alreadyHave": "Bereits vorhanden",
+      "hint": "Bringen Sie fehlende Dokumente zum Ausländeramt-Termin mit. Anforderungen können je nach Stadt variieren.",
+      "cta": "Meine Reisekarte erkunden"
+    },
+    "topics": {
+      "title": "Beliebte Themen",
+      "subtitle": "Häufige Behördenaufgaben — wählen Sie ein Thema."
+    }
+  },
+  "assistant": {
+    "header": {
+      "title": "Action Workspace",
+      "subtitle": "Einmal fragen, nächste Schritte als Karten erkunden."
+    },
+    "session": {
+      "label": "Ihr Thema"
+    },
+    "refine": {
+      "progress": "{{current}} / {{total}} beantwortet",
+      "optional": "optional"
+    },
+    "empty": {
+      "title": "Was möchten Sie erkunden?",
+      "subtitle": "Fragen Sie zu Aufenthaltstitel, Anmeldung, Arbeitsvisa und mehr. Sie erhalten Aktionskarten — keinen Textblock.",
+      "placeholder": "z.B. Wie bekomme ich einen Aufenthaltstitel?",
+      "suggestions": "Beispielfragen"
+    },
+    "intro": {
+      "ready": "Das sind die wichtigsten Schritte für Sie:",
+      "needsInfo": "Ein guter Start — ein paar Details helfen mir, die Karten zu verfeinern:"
+    },
+    "cardsLabel": "Ihre Aktionskarten",
+    "cardsHint": "Karte antippen — alle Details erscheinen hier.",
+    "context": {
+      "label": "Ihre bisherigen Antworten",
+      "followUps": "Nachfragen"
+    },
+    "wallet": {
+      "title": "Meine Wallet",
+      "empty": "Noch nichts gespeichert",
+      "emptyHint": "Karten hinzufügen oder die gesamte Sitzung speichern — Antworten und Guides bleiben auf diesem Gerät.",
+      "addCard": "Zur Wallet hinzufügen",
+      "inWallet": "In Wallet gespeichert",
+      "saveAll": "Alles in Wallet speichern",
+      "downloadSession": "Sitzung herunterladen",
+      "download": "Herunterladen",
+      "remove": "Entfernen",
+      "show": "Meine Wallet",
+      "hide": "Wallet ausblenden",
+      "exportAll": "Alles exportieren (JSON)",
+      "typeCard": "Einzelne Karte",
+      "typeSession": "Gesamte Sitzung · {{count}} Karten"
+    },
+    "cardStatus": {
+      "recommended": "Hier starten",
+      "needsInfo": "Details nötig"
+    },
+    "followUp": {
+      "label": "Weiter erkunden",
+      "placeholder": "Verfeinern oder etwas anderes fragen…",
+      "send": "Senden",
+      "go": "Los",
+      "cardContext": "Zu dieser Karte nachfragen",
+      "cardPlaceholder": "Frage zu dieser Karte…",
+      "aboutPrefix": "Zu",
+      "clear": "Entfernen"
+    },
+    "guided": {
+      "badge": "Kurze Fragen",
+      "stepOf": "Frage {{current}} von {{total}}",
+      "finish": "Meine Karten anzeigen",
+      "title": "Karten personalisieren",
+      "description": "Tippen Sie die passenden Optionen an — Ihre Aktionskarten werden aktualisiert.",
+      "submit": "Karten aktualisieren",
+      "selectPlaceholder": "Option wählen",
+      "country": "In welcher Stadt beantragen Sie?",
+      "currentStatus": "Wie ist Ihr aktueller Status?",
+      "purpose": "Wofür beantragen Sie?",
+      "purposeChecklist": "Ich möchte eine Checkliste",
+      "appointment": "Haben Sie bereits einen Termin?",
+      "cities": {
+        "berlin": "Berlin",
+        "munich": "München",
+        "hamburg": "Hamburg",
+        "other": "Andere Stadt"
+      }
+    },
+    "panel": {
+      "detailLabel": "Details",
+      "close": "Schließen"
+    },
+    "suggestions": {
+      "residence": "Wie bekomme ich einen Aufenthaltstitel?",
+      "anmeldung": "Wie melde ich meine Adresse an?",
+      "renewal": "Wie verlängere ich mein Visum?",
+      "work": "Darf ich arbeiten, während mein Antrag bearbeitet wird?"
+    },
+    "cards": {
+      "eligibility": {
+        "title": "Voraussetzungen prüfen",
+        "description": "Prüfen Sie, ob Sie die Grundvoraussetzungen für einen Aufenthaltstitel erfüllen."
+      },
+      "documents": {
+        "title": "Erforderliche Dokumente",
+        "description": "Reisepass, Fotos, Versicherung und Nachweise, die Sie brauchen."
+      },
+      "process": {
+        "title": "Antragsprozess",
+        "description": "Schritt für Schritt vom Termin bis zum Erhalt des Titels."
+      },
+      "appointment": {
+        "title": "Termin buchen",
+        "description": "So vereinbaren Sie einen Termin beim Ausländeramt."
+      },
+      "fees": {
+        "title": "Gebühren & Kosten",
+        "description": "Typische Gebühren und was den Preis beeinflusst."
+      },
+      "sources": {
+        "title": "Offizielle Quellen",
+        "description": "Verifizierte Links von BAMF, Stadtportalen und Make it in Germany."
+      },
+      "mistakes": {
+        "title": "Häufige Fehler",
+        "description": "Vermeiden Sie Verzögerungen und Ablehnungen mit diesen Tipps."
+      },
+      "timeline": {
+        "title": "Zeitplan",
+        "description": "Wie lange die einzelnen Phasen typischerweise dauern."
+      },
+      "anmeldungWhat": {
+        "title": "Was ist Anmeldung?",
+        "description": "Warum die Anmeldung wichtig ist und wann Sie sie machen müssen."
+      },
+      "anmeldungDocs": {
+        "title": "Dokumente für Anmeldung",
+        "description": "Reisepass, Mietvertrag und Wohnungsgeberbestätigung."
+      },
+      "anmeldungAppointment": {
+        "title": "Bürgeramt-Termin buchen",
+        "description": "Finden Sie Ihr Bürgeramt und buchen Sie einen Termin."
+      },
+      "anmeldungDeadline": {
+        "title": "14-Tage-Frist",
+        "description": "Melden Sie sich innerhalb von zwei Wochen nach Einzug an."
+      },
+      "workPermit": {
+        "title": "Arbeitserlaubnis Grundlagen",
+        "description": "Wann Arbeitgeber-Sponsoring nötig ist vs. freier Zugang."
+      },
+      "workDocs": {
+        "title": "Arbeitsdokumente",
+        "description": "Vertrag, Qualifikationen und Arbeitgeber-Schreiben."
+      },
+      "workProcess": {
+        "title": "Arbeitserlaubnis-Prozess",
+        "description": "Arbeitgeber, Ausländeramt und Startdatum koordinieren."
+      },
+      "explore": {
+        "title": "Themen erkunden",
+        "description": "Häufige Behördenaufgaben und nächste Schritte durchsuchen."
+      },
+      "generalDocs": {
+        "title": "Dokumenten-Checkliste",
+        "description": "Standarddokumente für die meisten Ausländer-Termine."
+      }
+    },
+    "detail": {
+      "sources": "Quellen",
+      "lastUpdated": "Zuletzt aktualisiert: heute",
+      "seeExamples": "Beispiele ansehen",
+      "bookAppointment": "Terminportal finden",
+      "fallback": {
+        "heading": "Details",
+        "body": "Wählen Sie eine Karte, um detaillierte Hinweise zu laden."
+      },
+      "eligibility": {
+        "heading": "Voraussetzungs-Checkliste",
+        "body": "Anforderungen variieren je nach Visumtyp und Stadt, aber dies sind die häufigsten Kriterien.",
+        "item1": "Gültiger Reisepass für die gesamte Aufenthaltsdauer",
+        "item2": "Nachweis der Krankenversicherung",
+        "item3": "Ausreichende finanzielle Mittel oder Beschäftigung",
+        "item4": "Gemeldete Adresse (Anmeldung) in den meisten Fällen"
+      },
+      "documents": {
+        "heading": "Erforderliche Dokumente",
+        "body": "Bringen Sie Originale plus Kopien mit. Fehlende Unterlagen können den Termin verzögern."
+      },
+      "process": {
+        "heading": "Antragsschritte",
+        "step1": "Termin beim Ausländeramt buchen",
+        "step2": "Alle erforderlichen Dokumente sammeln",
+        "step3": "Termin wahrnehmen und Antrag einreichen",
+        "step4": "Fiktionsbescheinigung erhalten, falls Bearbeitung dauert",
+        "step5": "Aufenthaltstitel abholen, wenn fertig"
+      },
+      "appointment": {
+        "heading": "Termin buchen",
+        "body": "Termine sind stadtbezogen. Buchen Sie früh — Plätze sind schnell vergeben.",
+        "tip1": "Prüfen Sie zuerst das Online-Terminsystem Ihrer Stadt",
+        "tip2": "Halten Sie Ihre Passnummer beim Buchen bereit"
+      },
+      "fees": {
+        "heading": "Typische Gebühren",
+        "body": "Gebühren hängen von Titelart und Dauer ab. Zahlung meist beim Termin.",
+        "item1": "Standard-Aufenthaltstitel: ca. 100 €",
+        "item2": "Verlängerungen und Sonderfälle können mehr kosten"
+      },
+      "mistakes": {
+        "heading": "Diese Fehler vermeiden",
+        "body": "Das sind die häufigsten Gründe für Verzögerungen oder Folgetermine.",
+        "item1": "Fehlende Anmeldung vor dem Ausländer-Termin",
+        "item2": "Abgelaufener Pass oder unzureichende Gültigkeit",
+        "item3": "Kein Krankenversicherungsnachweis",
+        "item4": "Unvollständige Arbeits- oder Immatrikulationsunterlagen"
+      },
+      "timeline": {
+        "heading": "Typischer Zeitplan",
+        "body": "Zeitpläne variieren je nach Arbeitsbelastung der Stadt und Fallkomplexität.",
+        "step1": "Woche 1–2: Termin buchen & Dokumente sammeln",
+        "step2": "Woche 3–4: Termin wahrnehmen",
+        "step3": "Woche 4–12: Bearbeitung (Fiktionsbescheinigung bei Bedarf)",
+        "step4": "Abschluss: Aufenthaltstitel abholen"
+      },
+      "anmeldungWhat": {
+        "heading": "Anmeldung (Wohnsitzanmeldung)",
+        "body": "Sie müssen sich innerhalb von 14 Tagen nach Einzug beim Bürgeramt anmelden. Sie erhalten eine Meldebescheinigung — benötigt für Bankkonto, Titel und mehr."
+      },
+      "anmeldungDeadline": {
+        "heading": "Die 14-Tage-Regel",
+        "body": "Die Anmeldung ist gesetzlich innerhalb von zwei Wochen nach Einzug erforderlich.",
+        "tip": "Verspätete Anmeldung kann in manchen Städten zu Bußgeldern führen."
+      }
+    }
+  },
+  "navigator": {
+    "entry": {
+      "title": "Wobei möchten Sie sich orientieren?",
+      "subtitle": "Wählen Sie unten ein Ziel oder beschreiben Sie Ihre Situation in eigenen Worten — beides bringt Sie weiter.",
+      "tileError": "Dieses Ziel ist derzeit nicht verfügbar. Bitte wählen Sie ein anderes oder beschreiben Sie Ihre Situation unten.",
+      "freeTextError": "Bitte geben Sie zwischen 1 und 1000 Zeichen ein, um Ihre Situation zu beschreiben."
+    },
+    "cardsHint": "Jeder Schritt ist eine Karte. Antippen zum Aufklappen — Ihr vollständiger Leitfaden bleibt hier.",
+    "resultsHint": "Beginnen Sie mit der Zusammenfassung und arbeiten Sie die Schritte der Reihe nach ab.",
+    "earlierResults": "Frühere Ergebnisse ({{count}})"
+  },
+  "guide": {
+    "name": "Nav",
+    "avatarAlt": "Nav, dein Wegweiser",
+    "greeting": "Hallo, ich bin Nav, dein Wegweiser. Sag mir, wo du nicht weiterkommst, und ich zeige dir die nächsten Schritte.",
+    "summaryIntro": "So würde ich es angehen"
+  },
+  "myInfo": {
+    "open": "Deine Daten",
+    "title": "Deine Daten",
+    "subtitle": "Alles auf diesem Gerät gespeichert. Nichts verlässt deinen Browser.",
+    "close": "Schließen",
+    "profile": "Dein Profil",
+    "topics": "Deine Themen",
+    "wallet": "Gespeicherte Leitfäden",
+    "preferences": "Einstellungen",
+    "emptyProfile": "Du hast die geführten Fragen noch nicht beantwortet.",
+    "emptyTopics": "Noch keine Themen erkundet.",
+    "emptyWallet": "Noch keine gespeicherten Leitfäden.",
+    "remove": "Entfernen",
+    "clearSection": "Leeren",
+    "clearAll": "Alles löschen",
+    "language": "Sprache",
+    "noAnswers": "Noch keine Angaben erfasst"
+  },
+  "goals": {
+    "firstResidence": {
+      "label": "Erste Aufenthaltserlaubnis beantragen",
+      "description": "Beantragen Sie Ihren ersten Aufenthaltstitel von Anfang an."
+    },
+    "registerAddress": {
+      "label": "Adresse anmelden",
+      "description": "Erledigen Sie Ihre Anmeldung beim Bürgeramt."
+    },
+    "renewPermit": {
+      "label": "Aufenthaltstitel verlängern",
+      "description": "Verlängern Sie Ihren Aufenthaltstitel, bevor er abläuft."
+    },
+    "work": {
+      "label": "In Deutschland arbeiten",
+      "description": "Erfahren Sie, ob und wie Sie mit Ihrem Status arbeiten dürfen."
+    },
+    "changeStatus": {
+      "label": "Status wechseln",
+      "description": "Ändern Sie Ihren Aufenthaltszweck, z. B. von Studium zu Arbeit."
+    },
+    "somethingElse": {
+      "label": "Etwas anderes",
+      "description": "Beschreiben Sie Ihre Situation und wir zeigen Ihnen den richtigen Weg."
+    }
+  },
+  "summary": {
+    "title": "Ihre Situation",
+    "goalLabel": "Ihr Ziel",
+    "verdictPrefix": "Das ist Ihr nächster Schritt",
+    "empty": "Noch keine Angaben zu Ihrer Situation. Wählen Sie ein Ziel oder beschreiben Sie Ihre Situation, um zu beginnen.",
+    "urgency": {
+      "urgent": "Dringend",
+      "soon": "Bald handeln",
+      "none": "Keine Frist"
+    }
+  },
+  "office": {
+    "title": "Wohin Sie gehen",
+    "bookingTitle": "Termin buchen",
+    "bookingPortalLabel": "Terminportal",
+    "bookingStepsLabel": "So gelangen Sie zur Terminseite",
+    "whatToBring": "Was Sie mitbringen müssen",
+    "fallback": "Wir konnten die zuständige Behörde für Ihre Situation nicht bestimmen. Die Termin- und Dokumentenschritte unten gelten trotzdem.",
+    "types": {
+      "residence": "Ausländerbehörde",
+      "anmeldung": "Bürgeramt"
+    }
+  },
+  "classification": {
+    "actionable": "Handlung erforderlich",
+    "advisable": "Gut zu wissen"
+  },
+  "completion": {
+    "markComplete": "Als erledigt markieren",
+    "completed": "Erledigt",
+    "progress": "{{done}}/{{total}} Schritte erledigt"
+  },
+  "export": {
+    "pdfButton": "Als PDF herunterladen",
+    "sectionSummary": "Ihre Situation",
+    "sectionCards": "Ihre Handlungsschritte",
+    "sectionSteps": "Schritte",
+    "sectionSources": "Offizielle Quellen",
+    "error": "Das PDF konnte nicht erstellt werden. Bitte versuchen Sie es erneut."
+  },
+  "auslander": {
+    "step1": {
+      "question": "Wo stehen Sie in Ihrer Reise?",
+      "abroad": "Noch in meinem Heimatland",
+      "justArrived": "Gerade in Deutschland angekommen",
+      "fewMonths": "Seit ein paar Monaten hier",
+      "settled": "Seit über einem Jahr hier"
+    },
+    "step2": {
+      "question": "Wie lautet Ihr aktueller Visum- oder Aufenthaltsstatus?",
+      "tourist": "Touristenvisum",
+      "student": "Studentenvisum",
+      "work": "Arbeitsvisum / Blue Card",
+      "asylum": "Asylsuchender",
+      "other": "Andere / unsicher"
+    },
+    "step3": {
+      "question": "Wobei brauchen Sie Hilfe beim Ausländeramt?",
+      "firstPermit": "Erste Aufenthaltserlaubnis beantragen",
+      "renewal": "Bestehende Erlaubnis verlängern",
+      "extension": "Aktuellen Status verlängern",
+      "changeStatus": "Statuswechsel (z.B. Student → Arbeit)",
+      "registration": "Nur Anmeldung"
+    },
+    "step4": {
+      "question": "Welche Dokumente haben Sie bereits?",
+      "subtitle": "Alle zutreffenden auswählen — wir zeigen, was noch fehlt."
+    },
+    "step5": {
+      "question": "Haben Sie einen Ausländeramt-Termin?",
+      "none": "Noch nicht — Termin buchen",
+      "scheduled": "Ja, Termin ist geplant",
+      "waiting": "Warte auf Termindatum",
+      "completed": "Kürzlich bereits dort gewesen"
+    },
+    "step6": {
+      "title": "Checkliste wird erstellt",
+      "description": "Wir gleichen Ihre Antworten mit typischen Ausländeramt-Anforderungen ab."
+    },
+    "documents": {
+      "passport": "Gültiger Reisepass",
+      "photos": "Biometrische Fotos",
+      "insurance": "Krankenversicherungsnachweis",
+      "anmeldung": "Anmeldung (Meldebescheinigung)",
+      "currentPermit": "Aktueller Aufenthaltstitel",
+      "employmentContract": "Arbeitsvertrag",
+      "rentalContract": "Mietvertrag / Wohnungsgeberbestätigung",
+      "fiktion": "Fiktionsbescheinigung"
+    },
+    "summary": {
+      "visaStatus": "Aufenthaltsstatus",
+      "goal": "Ihr Ziel",
+      "documents": "Vorhandene Dokumente"
+    },
+    "topics": {
+      "anmeldung": "Adresse anmelden (Anmeldung)",
+      "aufenthalt": "Erste Aufenthaltserlaubnis",
+      "renewal": "Visum / Erlaubnis verlängern",
+      "insurance": "Krankenversicherung",
+      "work": "Arbeit & Beschäftigung",
+      "rights": "Rechte & Schutz"
+    }
+  }
+}
